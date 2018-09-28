@@ -13,7 +13,7 @@ A simulação capacidade cognitiva do ser humano tornou-se uma das áreas mais f
  Capazes de promover a realização do aprendizado da máquina bem, como também, torna-las capazes de reconhecer padrões. Por isso, apresentam-se como sistemas "neurônios interconectados, capazes de computar valores de entradas", simulando o comportamento, humano, de uma rede neural biológica.
 Nesta revisão, apresentamos a evolução no campo de pesquisa da inteligência artificial bem como o avanço e ampliação dessa área permitidas através do estudo das redes neurais artificiais baseadas nas redes neurais biológicas.
 
-###2.  Referências
+### 2.  Referências
 Von Zuben, J.  & Boccato, Levy. Redes Neurais Artificiais -Uma Perspectiva de Filtragem. 
 Retirado de http://www.dca.fee.unicamp.br/~lboccato/topico_2.0_IA013_redes_neurais_visao_filtragem.pdf
 Vellasco, Marley Maria Bernardes Rebuzzi.(2017) Redes Neurais Artificiais
