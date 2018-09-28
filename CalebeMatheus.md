@@ -1,4 +1,4 @@
-# Inteligência Artificial: Rede Neural 
+# Inteligência Artificial: Rede Neural Artificial
 
 
 ## Resumo
